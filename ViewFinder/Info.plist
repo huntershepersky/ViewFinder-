@@ -2,6 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSCameraUsageDescription</key>
+	<string>&quot;Allow&quot; &quot;Hunter&apos;s app to access your camera while the app is open&quot;</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>&quot;Allow&quot; &quot;Hunter&apos;s app to access your photos while the app is open&quot;</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleExecutable</key>
